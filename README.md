@@ -7,7 +7,6 @@
 [![Certification](https://img.shields.io/badge/Standard-BNSP%20Data%20Science-blue?style=for-the-badge)](https://bnsp.go.id)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> 🏆 **Proyek Uji Kompetensi BNSP** — Skema Sertifikasi *Associate Data Scientist*, LSP Informatika  
 > 🔬 **Fokus:** *Healthcare Analytics, Predictive Modeling, Explainable AI (XAI), Automated Machine Learning (AutoML)*
 
 ---
