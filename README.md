@@ -115,38 +115,3 @@ Melalui analisis **SHAP (SHapley Additive exPlanations)**:
 ├── 📄 .gitignore                         # File konfigurasi Git
 └── 📄 README.md                          # Dokumentasi proyek
 ```
-
----
-
-## 🚀 Cara Menjalankan Proyek
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/barronbrn/heart-disease-prediction-ml.git
-cd heart-disease-prediction-ml
-```
-
-### 2. Buat Lingkungan Virtual & Install Dependensi
-```bash
-python -m venv venv
-# Windows:
-.\venv\Scripts\activate
-# Linux/macOS:
-source venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-### 3. Buka Notebook
-```bash
-jupyter notebook heart_disease_classification.ipynb
-```
-Atau buka file `.ipynb` langsung di Google Colab / VS Code.
-
----
-
-## 👨‍💻 Kontributor
-
-**Dani Herawan**  
-*Program Studi Teknik Informatika, Universitas Komputer Indonesia (UNIKOM)*  
-Sertifikasi Kompetensi BNSP - Associate Data Scientist
